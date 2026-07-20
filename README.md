@@ -43,7 +43,7 @@ exam-app/
 
 ```bash
 npm install
-npx expo start --tunnel
+npx expo start
 ```
 
 Then scan the QR code with Expo Go on your phone but make sure it's using SDK 51.
